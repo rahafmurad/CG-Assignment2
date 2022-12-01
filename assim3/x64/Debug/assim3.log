@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(17,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(27,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(37,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(136,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(136,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(136,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(142,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(154,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(155,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(169,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(170,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(184,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(197,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(207,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\assim3\main.cpp(262,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  assim3.vcxproj -> C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim3\x64\Debug\assim3.exe
